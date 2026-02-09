@@ -309,14 +309,14 @@ GET https://your-server:8080/api/matches/{id}/answers
 
 ---
 
-## Deployed Contracts (Monad Testnet)
+## Deployed Contracts (Monad Mainnet)
 
 | Contract | Address |
 |----------|---------|
-| AxonArena | [`0x0290672D823aB020EfD2e0aE97Ef944829Ccb02D`](https://testnet.monadexplorer.com/address/0x0290672D823aB020EfD2e0aE97Ef944829Ccb02D) |
-| NeuronToken | [`0xbA94268929d9dA2075B6B567C06033564C460355`](https://testnet.monadexplorer.com/address/0xbA94268929d9dA2075B6B567C06033564C460355) |
-| Treasury | [`0x4ECc1aE58524547EaBd303D5A2Ebad94c83E8282`](https://testnet.monadexplorer.com/address/0x4ECc1aE58524547EaBd303D5A2Ebad94c83E8282) |
-| Operator | [`0x0955beAE336d848E8cE1147e594A254cB81A042E`](https://testnet.monadexplorer.com/address/0x0955beAE336d848E8cE1147e594A254cB81A042E) |
+| AxonArena | [`0xf7Bc6B95d39f527d351BF5afE6045Db932f37171`](https://monadvision.com/address/0xf7Bc6B95d39f527d351BF5afE6045Db932f37171) |
+| NeuronToken | [`0xDa2A083164f58BaFa8bB8E117dA9d4D1E7e67777`](https://monadvision.com/address/0xDa2A083164f58BaFa8bB8E117dA9d4D1E7e67777) |
+| Treasury | [`0x0311A7FDfC7b9017a96C95509E79F2DF8Db360A5`](https://monadvision.com/address/0x0311A7FDfC7b9017a96C95509E79F2DF8Db360A5) |
+| Operator | [`0x071A21C5dB495D54DE4553d0A294bAe2EdC9EfDE`](https://monadvision.com/address/0x071A21C5dB495D54DE4553d0A294bAe2EdC9EfDE) |
 
 ---
 
